@@ -5,5 +5,5 @@
 * [三、保障公民互联网言论自由](chapter4.md)
 * [四、管理互联网的基本原则与实践](chapter5.md)
 * [五、维护互联网安全](chapter6.md)
-* [六、积极开展国际交流与合作](Chapter7.md)
+* [六、积极开展国际交流与合作](chapter7.md)
 * [结束语](chapter8.md)
